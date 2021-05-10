@@ -50,3 +50,18 @@ nav {
     color: #339AA6;
     border: 1px solid;
 }
+
+/* Contacto */
+
+#Contacto{
+    background: #000000;
+}
+
+#Contacto{
+    font-weight: 300;
+}
+
+#Contacto hr{
+    color: #339AA6;
+    border: 1px solid;
+}
