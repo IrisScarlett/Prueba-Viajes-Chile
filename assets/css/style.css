@@ -1,0 +1,16 @@
+body{
+    font-family: "Open Sans";
+}
+
+/* Navbar */
+nav {
+    background-color: #339AA6;
+}
+
+.navbar-brand {
+    font-weight: 400;
+}
+
+.navbar-brand img{
+    height: 1.5em;
+}
