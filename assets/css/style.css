@@ -14,3 +14,18 @@ nav {
 .navbar-brand img{
     height: 1.5em;
 }
+
+/* Quiénes Somos */
+
+#Quienes-Somos{
+    background: #000000;
+}
+
+#Quienes-Somos i{
+    background: #339AA6;
+}
+
+#Quienes-Somos hr{
+    color: #339AA6;
+    border: 1px solid;
+}
